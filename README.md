@@ -66,3 +66,10 @@ This is a base implementation of wrapping jsplumb with react + redux to be more 
       This is a little crude as of now. Will have to see if I can use this as a generic functionality for any store.
 
   - `middlewares` - Similar to `additionalReducers` you could pass in additional middlewares that you want to add based on your reducers.
+
+
+     ```
+   ##### Demo
+        [Check Demo for this project on ](http://general-stomach.surge.sh/)
+        [Code of Demo Project ](https://github.com/ajainarayanan/react-dag-app)
+     
